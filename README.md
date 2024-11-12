@@ -154,5 +154,6 @@ This task breakdown leverages the PACE framework to ensure each task is organize
 ### Summary
 These guiding questions and requirements help ensure each project is tailored to meet client objectives and deliver actionable insights. By addressing these areas, the project can efficiently meet data-driven goals while aligning with stakeholder expectations.
 
-### Thank you for viewing this project!
+### Thank you for reading about this project!
+### Check the jupyter notebook for the whole project!
 ### Have a wonderful day!
