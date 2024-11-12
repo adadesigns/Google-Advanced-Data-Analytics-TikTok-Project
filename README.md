@@ -1,3 +1,76 @@
+<style>
+/* Set a global font style and size */
+body, h1, h2, h3, h4, h5, h6, p, li, td, th {
+    font-family: Arial, sans-serif; /* Accessible font */
+    font-size: 14px; /* Adjust font size */
+    line-height: 1.6; /* Increase line height for readability */
+    color: #333; /* Dark gray for text */
+}
+
+
+h1 { font-size: 24px; color: #003366; text-align: center;  margin-top: 20px; border-bottom: 3px solid #003366; /* Dark navy */ padding-bottom: 5px;  } /* Dark navy */
+h2 { font-size: 20px; color: #0059b3; } /* Slightly lighter navy */
+h3 { font-size: 18px; color: #6699CC; } /* Medium blue */
+h4 { font-size: 16px; color: #336699; } /* Light navy */
+
+
+
+/* Table styling with colors */
+table {
+    width: 100%;
+    border-collapse: collapse;
+    background-color: #f8fafc; /* Light background for tables */
+}
+
+th {
+    background-color: #007acc; /* Blue for table header */
+    color: #ffffff; /* White text */
+    padding: 8px;
+    text-align: left;
+}
+
+td {
+    padding: 8px;
+    border: 1px solid #ddd;
+    text-align: left;
+}
+
+/* Code cells styling */
+pre, code {
+    font-size: 13px;
+    background-color: #f4f4f4; /* Soft gray background for code blocks */
+    color: #2e7d32; /* Dark green for code */
+    padding: 5px;
+    border-radius: 5px;
+    font-family: Consolas, 'Courier New', monospace;
+}
+
+/* Inline code */
+code {
+    color: #d63384; /* Deep pink for inline code */
+    background-color: #fbe9f0; /* Light pink background */
+}
+
+/* Link styling */
+a {
+    color: #007acc; /* Blue for links */
+    text-decoration: none;
+}
+
+a:hover {
+    color: #0056b3; /* Darker blue on hover */
+    text-decoration: underline;
+}
+
+/* Style lists with spacing */
+ul, ol {
+    margin-top: 0;
+    margin-bottom: 10px;
+    color: #333; /* Dark gray text */
+}
+
+</style>
+
 # Google-Advanced-Data-Analytics-TIKTOK-Project
 Google Advanced Data Analytics Professional Certificate - TIKTOK Project
 ## About the project
