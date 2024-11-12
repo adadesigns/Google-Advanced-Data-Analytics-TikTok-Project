@@ -1,2 +1,2 @@
-# Google-Advanced-Data-Analytics-Capstone-Project
-Google Advanced Data Analytics Professional Certificate - Capstone Project
+# Google-Advanced-Data-Analytics-TIKTOK-Project
+Google Advanced Data Analytics Professional Certificate - TIKTOK Project
